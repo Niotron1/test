@@ -2,3 +2,5 @@ milk
 ric 
 eggs
 chicken
+orange
+coffee
